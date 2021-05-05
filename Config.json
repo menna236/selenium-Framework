@@ -1,0 +1,5 @@
+
+{
+  "DocumentTypeLocator" : "//div[text()='%s']/..//span[text()='Free']",
+  "selectedDocumentLabel" :"//div[@class='title']"
+}
